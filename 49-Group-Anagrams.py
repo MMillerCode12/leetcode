@@ -12,10 +12,4 @@ class Solution:
             else:
                 sorted_str[temp_sort] = [i]
 
-        for j in sorted_str:
-            return_strs.append(sorted_str[j])
-
-        return return_strs
-
-
-
+        return list(sorted_str.values())
