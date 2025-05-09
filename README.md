@@ -8,6 +8,18 @@
 
 ---
 
+### 📝 Problem Sets I'm Working on
+ 
+* 👨‍🦯 Blind75
+* 📈 Neetcode 150
+* 📃 LeetCode Binary Search Set
 
+---
+
+### 🛠️ Concepts I'm Learning
+
+* 🤖 Binary Search
+* 🔍 DFS/BFS
+* ⌨️ Dynamic Programming
 
 ---
